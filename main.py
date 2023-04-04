@@ -7,3 +7,4 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 '''
 print ('Hello World')
+print( 'cos nowego')
